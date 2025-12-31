@@ -143,7 +143,7 @@ const yoKaiList = [
   { "name": "Taïbasse", "img": "Pandalon.png" },
   { "name": "Persépoil", "img": "Peluson.png" },
   { "name": "Javamal", "img": "Amarguito.png" },
-  { "name": "Malocoeur", aliases: ["Malocoeur", Malocœur"], "img": "Nauseo.png" },
+  { "name": "Malocoeur", aliases: ["Malocoeur", "Malocœur"], "img": "Nauseo.png" },
   { "name": "Hadespote", "img": "Condespotico.png" },
   { "name": "Jean-Mèchel", "img": "Flequipilante.png" },
   { "name": "Oridjinn", "img": "Origenio.png" },
